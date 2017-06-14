@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-limit-screenshots",
+  "version": "0.1.0",
+  "description": "Blocks screenshots on Android and detects screenshots on iOS.",
+  "cordova": {
+    "id": "cordova-plugin-limit-screenshots",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manduro/cordova-plugin-limit-screenshots.git"
+  },
+  "keywords": [
+    "privacy",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT"
+}
